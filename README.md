@@ -1,1 +1,3 @@
-# etceecau-2018
+# Como Criar Coisas Inteligentes com NodeJS e Arduino (ENCONTRO DE TRABALHOS CIENTÍFICOS DE ENGENHARIA ELÉTRICA E ENGENHARIA DE CONTROLE E AUTOMAÇÃO UNINORTE LAUREATE - I ETCEECAU)
+
+Exemplos de códigos vistos na oficina Como Criar Coisas Inteligentes com NodeJS e Arduino realizada no ENCONTRO DE TRABALHOS CIENTÍFICOS DE ENGENHARIA ELÉTRICA E ENGENHARIA DE CONTROLE E AUTOMAÇÃO UNINORTE LAUREATE (I - ETCEECAU) no dia 05 de dezembro de 2018.
